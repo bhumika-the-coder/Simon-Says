@@ -16,3 +16,6 @@
 4.With each level, the sequence becomes longer and harder.
 
 5.A single wrong click ends the game.
+
+
+Link -> https://bhumika-the-coder.github.io/Simon-Says/
